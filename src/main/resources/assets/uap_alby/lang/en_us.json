@@ -1,0 +1,16 @@
+{
+  "=== キャラ ===" : "",
+  "umadata.uap_alby.alby": "Alby",
+
+  "=== サポートカード ===" : "",
+  "support_card.uap_alby.r_alby.name": "[B.E.P Fairy Tech] Alby",
+  "support_card.uap_alby.sr_alby.name": "[Obsession Shine] Alby",
+  "support_card.uap_alby.ssr_alby.name": "[Remembering the Past,Beyond the Future] Alby",
+
+  "=== スキル ===" : "",
+  "uma_skill.uap_alby.breakinglimit": "Breaking Limit",
+  "uma_skill.uap_alby.beyondthefutureahead": "B.T. Future Ahead",
+
+  "=== バフ効果 ===" : "",
+  "effect.uap_alby.breakinglimit": "BreakingLimit"
+}

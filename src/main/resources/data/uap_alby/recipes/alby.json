@@ -1,0 +1,19 @@
+{
+  "type": "umapyoi:shapeless_umasoul",
+  "category": "misc",
+  "ingredients": [
+    {
+      "type": "umapyoi:umasoul",
+      "request": {
+        "ranking": ["sr"]
+      }
+    },
+    {
+      "item": "minecraft:poppy"
+    },
+    {
+      "item": "minecraft:red_tulip"
+    }
+  ],
+  "umasoul": "uap_alby:alby"
+}

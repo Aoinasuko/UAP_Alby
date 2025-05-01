@@ -1,0 +1,18 @@
+{
+  "type": "wisdom",
+  "max_damage": 8,
+  "ranking": "sr",
+  "supporters": [
+    "uap_alby:alby"
+  ],
+  "supports": [
+    {
+      "level": 2,
+      "support": "umapyoi:wisdom_support"
+    },
+    {
+      "level": 2,
+      "support": "umapyoi:actionpoint_support"
+    }
+  ]
+}

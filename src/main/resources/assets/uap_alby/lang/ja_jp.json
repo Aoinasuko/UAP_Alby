@@ -1,0 +1,16 @@
+{
+  "=== キャラ ===" : "",
+  "umadata.uap_alby.alby": "アルビィ",
+
+  "=== サポートカード ===" : "",
+  "support_card.uap_alby.r_alby.name": "[B.E.P Fairy Tech] アルビィ",
+  "support_card.uap_alby.sr_alby.name": "[執念を輝かせて] アルビィ",
+  "support_card.uap_alby.ssr_alby.name": "[過去を偲び、未来の先の先へ] アルビィ",
+
+  "=== スキル ===" : "",
+  "uma_skill.uap_alby.breakinglimit": "限界突破",
+  "uma_skill.uap_alby.beyondthefutureahead": "未来の先の先へ",
+
+  "=== バフ効果 ===" : "",
+  "effect.uap_alby.breakinglimit": "限界突破"
+}

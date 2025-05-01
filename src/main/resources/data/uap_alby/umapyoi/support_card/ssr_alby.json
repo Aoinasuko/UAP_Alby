@@ -1,0 +1,25 @@
+{
+  "type": "speed",
+  "max_damage": 8,
+  "ranking": "ssr",
+  "supporters": [
+    "uap_alby:alby"
+  ],
+  "supports": [
+    {
+      "level": 3,
+      "support": "umapyoi:speed_support"
+    },
+    {
+      "level": 3,
+      "support": "umapyoi:wisdom_support"
+    },
+    {
+      "level": 1,
+      "support": "umapyoi:skill_support",
+      "tag": {
+        "skill": "uap_alby:breakinglimit"
+      }
+    }
+  ]
+}
