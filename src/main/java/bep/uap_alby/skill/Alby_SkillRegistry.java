@@ -16,6 +16,6 @@ public class Alby_SkillRegistry {
     public static final RegistryObject<UmaSkill> BREAKINGLIMIT = SKILLS.register("breakinglimit", () -> new BreakingLimit_Skill(new UmaSkill.Builder().level(1).type(SkillType.BUFF).actionPoint(400).requiredWisdom(2), 400));
 
     // 固有スキル
-    public static final RegistryObject<UmaSkill> BEYONDTHEFUTUREAHEAD = SKILLS.register("beyondthefutureahead", () -> new BreakingLimit_Skill(new UmaSkill.Builder().level(2).type(SkillType.BUFF), 400));
+    public static final RegistryObject<UmaSkill> BEYONDTHEFUTUREAHEAD = SKILLS.register("beyondthefutureahead", () -> new BreakingLimit_Skill(new UmaSkill.Builder().level(2).type(SkillType.BUFF).requiredWisdom(4), 400));
 
 }
